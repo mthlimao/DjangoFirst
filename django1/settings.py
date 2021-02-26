@@ -27,7 +27,7 @@ SECRET_KEY = ')dx$ngx^_&dh)-j=l^fh1uop*-vg-cp*vt1(5ccg-#b2jhu97%'
 # DEBUG = False: Production mode
 DEBUG = False
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['django1-ms.herokuapp.com']
 
 
 # Application definition
